@@ -33,5 +33,4 @@ javafx {
 
 application {
     mainClassName = 'com.lfftechnologies.learning.LearningApplication'
-    mainModule = "learning"
 }
